@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-- 👨‍💻 All of my projects are available at [https://munnagupta17.github.io/](https://munnagupta17.github.io/)
+- 👨‍💻 All of my projects are available at [https://munnagupta17.github.io/munna-gupta-portfolio/](https://munnagupta17.github.io/munna-gupta-portfolio/)
 
 - 📫 You can reach me at **munna.gupta2702@gmail.com**
 
