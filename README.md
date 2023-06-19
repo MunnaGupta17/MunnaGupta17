@@ -6,13 +6,15 @@
 </p>
 <hr>
 
+- **10+ Spring-Boot Rest-API Applications**
+
+- **3+ Static Frontend Applications**
+
 - ✅ **Solved 400+ problems on @Leetcode**
 
 - **5**🌟**coder at HackerRank**
 
-- **10+ Spring-Boot Rest-API Applications**
 
-- **3+ Static Frontend Applications**
 
 - 👨‍💻 All of my projects are available at [https://munnagupta17.github.io/munna-gupta-portfolio/](https://munnagupta17.github.io/munna-gupta-portfolio/)
 
