@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-- ✅ **Solved 350+ problems on @Leetcode**
+- ✅ **Solved 400+ problems on @Leetcode**
 
 - **5**🌟**coder at HackerRank**
 
