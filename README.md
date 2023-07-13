@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Munna Gupta</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
